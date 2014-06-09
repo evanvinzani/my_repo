@@ -1,5 +1,10 @@
 @CHARSET "UTF-8";
 
+div
+{
+font-family:courier;  
+}
+
 div.clearfix {
 	clear: both;
 }
@@ -64,7 +69,6 @@ div.content {
 	background-color: #99FFCC;
 	color: #cc9900;
 	overflow-y:scroll;
-
 }
 
 footer {
